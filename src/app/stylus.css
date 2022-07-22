@@ -1,0 +1,175 @@
+.imagenIndex{
+    width: 100%;
+}
+
+.color-button-yellow{
+    background-color: #EBD408;
+    color: #16212C;
+    font-size: 1.5rem;
+    margin-top: 0%;
+    margin-left: 75%;
+}
+
+.color-hidden-yellow{
+    background-color: #D8C308;
+    color: #16212C;  
+}
+
+:hover.color-button-yellow{
+    background-color: #D8C308;
+}
+
+.Chinesse{
+    font-size: 12rem;
+    font-weight: 540;
+    color: #fff;
+    margin-top: -26%;
+    margin-left: 10%;
+}
+
+.trip{
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 7%;
+    margin-left: 10%;
+    letter-spacing: 3px;
+}
+
+.render{
+    display: grid !important;
+    justify-content: center !important;
+    width: 100%;
+    height: 60%;
+    margin-top: 10%;
+    border-color: #16212C;
+    border-width: 1rem;
+    border-top: #16212C 2.5rem;
+    border-style: solid;
+    background-image: url(../../../assets/render1.png);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    text-align:right;
+    padding-right: 8%;
+    background-attachment: fixed;
+    background-position: bottom right;
+    
+    
+}
+
+.render2{
+    width: 100%;
+    height: 60%;
+    margin-top: -1%;
+    border-color: #16212C;
+    border-width: 1rem;
+    border-top: #16212C 1rem;
+    border-style: solid;
+    background-image: url(../../../assets/render2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-left: 8%;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    text-align:right;
+    padding-right: 8%;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+
+.withP{
+    width: 70%;
+    margin-top: 12%;
+    font-size: 1.15rem;
+    
+}
+
+.withP1{
+    margin-left: 30%;
+}
+
+h2{
+    margin-top: -5%;
+}
+
+.backgroundChina{
+    display: grid !important;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+    background-image: url(../../../assets/comidaChinaAzulhd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 3% 6%; 
+} 
+
+
+.divForm{
+    padding: 3rem;
+    width: 60%;
+    border-radius: 5px; 
+    background-color: rgba(22, 33, 44, 90%);
+    height: 90%;
+}
+
+.form{
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.h1{
+    font-size: 3rem !important;
+}
+
+.Email{
+    margin-left: 0.5rem;
+}
+
+.threeNames{
+    display: grid !important;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.twoNames{
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+}
+
+input{
+    background-color: #1D2F41 !important;
+    color: seashell !important;
+}
+
+/*====================button======================*/
+.color-button-yellow{
+    background-color: #EBD408;
+    color: #16212C;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    align-self: left;
+    width: 99%;
+    
+
+}
+
+.color-hidden-yellow{
+    background-color: #D8C308;
+    color: #16212C;  
+}
+
+:hover.color-button-yellow{
+    background-color: #D8C308;
+}
+
+.color-yellow{
+    color: #EBD408;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.just{
+    display: grid !important;
+    grid-template-columns: 2fr 2fr;
+    justify-content: center;
+    justify-items: right;
+
+}
